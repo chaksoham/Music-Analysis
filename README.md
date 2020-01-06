@@ -1,2 +1,2 @@
-# Practical-Data-Science-Final
+# Music analysis
 Every year, hundreds of songs go viral. Some are by famous artists, while others come as a surprise. By performing this analysis, we want to find out if an artist will get famous in the future. Moreover, by collecting data from various sources, we want to predict which songs would consist of the best lineup for the next music festival. We’ll perform this analysis by collecting the previous year’s music data and create a regression model on top of it. 
